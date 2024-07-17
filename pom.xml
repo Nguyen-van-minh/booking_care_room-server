@@ -11,6 +11,8 @@
     <groupId>com.dailycodework</groupId>
     <artifactId>Booking-doctor</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>war</packaging>
+
     <name>Booking-doctor</name>
     <description>Booking-doctor</description>
     <properties>
